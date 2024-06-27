@@ -1,0 +1,6 @@
+print("Welcome to the programing BAND Generator")
+city = input("What's the name of the city you grew up in")
+print(city)
+pet = input("what's your pet's name")
+print(pet)
+print(f"Your band name could be {city} {pet}")

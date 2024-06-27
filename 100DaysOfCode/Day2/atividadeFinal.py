@@ -5,4 +5,3 @@ qtdPeople = int(input("How many people to split the bill?\n"))
 porcentagem = (gorgeta * conta) /100
 result = (conta + porcentagem) / qtdPeople
 print(f'Each person should pay: ${round(result, 2)}')
-

@@ -4,3 +4,6 @@
 #aredonda para numero inteiro
 print(8 // 3)
 print(6 + 4 / 2 - (1 * 2))
+
+
+name  = input("aaasdasd")
